@@ -10,7 +10,7 @@ Explain customer service outcomes using conversation transcripts without direct 
 - Evidence extraction from conversations
 
 ## Files
-- `solution.ipynb` – Complete implementation
+- `Pravaah Datascience hackathon(Gowtham).ipynb` – Complete implementation
 - `Conversational_Transcript_Dataset.json` – Dataset (if permitted)
 
 ## Author
